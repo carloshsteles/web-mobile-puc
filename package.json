@@ -15,7 +15,7 @@
   "scripts": {
     "start": "node server/bin/www",
     "test": "karma",
-    "postinstall": "bower install && grunt heroku:production"
+    "postinstall": "bower install"
   },
   "dependencies": {
     "body-parser": "~1.13.2",
