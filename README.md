@@ -21,6 +21,10 @@ https://nodejs.org/en/download/
 https://www.mongodb.com/download-center?jmp=nav#community
 ```
 
+* Intall Ruby
+* Install sass gem
+* Install compass gem
+
 ### Installing
 
 First step is clone the repository by typing
